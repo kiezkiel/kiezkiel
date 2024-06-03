@@ -41,6 +41,11 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=Nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-BurpSuite-563D7C?style=for-the-badge&logo=BurpSuite&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nessus-00CED1?&style=for-the-badge&logo=Tenable&logoColor=white" alt="Nessus" />
+<img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=Netcat&logoColor=white" alt="Netcat" />
+<img src="https://img.shields.io/badge/-Shodan-B22222?&style=for-the-badge&logo=Shodan&logoColor=white" alt="Shodan" />
+<img src="https://img.shields.io/badge/-Gobuster-8A2BE2?&style=for-the-badge&logoColor=white" alt="Gobuster" />
+<img src="https://img.shields.io/badge/-Responder-DAA520?&style=for-the-badge&logoColor=black" alt="Responder" />
 
 </div>
 
@@ -59,6 +64,45 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 <img src="https://img.shields.io/badge/-BeEF XSS-FF0000?style=for-the-badge&logo=BeEF XSS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Havoc C2-5b5b5b?style=for-the-badge&logo=Havoc C2&logoColor=white" />
 
+</div>
+
+### Web Scanning
+<div>
+    <img src="https://img.shields.io/badge/-WPScan-0066CC?&style=for-the-badge&logo=WordPress&logoColor=white" alt="WPScan" />
+    <img src="https://img.shields.io/badge/-SQLMap-FFA500?&style=for-the-badge&logo=MySQL&logoColor=black" alt="SQLMap" />
+</div>
+
+### Exploitation Tools
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-006400?&style=for-the-badge&logo=Metasploit&logoColor=white" alt="Metasploit" />
+    <img src="https://img.shields.io/badge/-Mimikatz-696969?&style=for-the-badge&logoColor=white" alt="Mimikatz" />
+    <img src="https://img.shields.io/badge/-Veil-8B0000?&style=for-the-badge&logoColor=white" alt="Veil" />
+    <img src="https://img.shields.io/badge/-Evil_WinRM-800000?&style=for-the-badge&logoColor=white" alt="Evil WinRM" />
+    <img src="https://img.shields.io/badge/-SET-808080?&style=for-the-badge&logoColor=white" alt="SET" />
+</div>
+
+### Social Engineering
+<div>
+    <img src="https://img.shields.io/badge/-Zphisher-FF4500?&style=for-the-badge&logoColor=white" alt="Zphisher" />
+</div>
+
+### Reverse Engineering
+<div>
+    <img src="https://img.shields.io/badge/-Ghidra-FFD700?&style=for-the-badge&logo=Ghidra&logoColor=black" alt="Ghidra" />
+</div>
+
+### Remote Access
+<div>
+    <img src="https://img.shields.io/badge/-XFreeRDP-4682B4?&style=for-the-badge&logo=FreeRDP&logoColor=white" alt="XFreeRDP" />
+    <img src="https://img.shields.io/badge/-RDesktop-0000CD?&style=for-the-badge&logoColor=white" alt="RDesktop" />
+</div>
+
+### Miscellaneous Tools
+<div>
+    <img src="https://img.shields.io/badge/-Ferret-32CD32?&style=for-the-badge&logoColor=white" alt="Ferret" />
+    <img src="https://img.shields.io/badge/-Hamster-FF6347?&style=for-the-badge&logoColor=white" alt="Hamster" />
+    <img src="https://img.shields.io/badge/-ExifTool-FF8C00?&style=for-the-badge&logoColor=white" alt="ExifTool" />
+    <img src="https://img.shields.io/badge/-Aircrack--ng-1E90FF?&style=for-the-badge&logo=Aircrack-ng&logoColor=white" alt="Aircrack-ng" />
 </div>
 
 
