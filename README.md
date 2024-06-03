@@ -44,24 +44,26 @@ To leverage my skills and passion for cybersecurity by contributing to a dynamic
 </div>
 
 ## Highlighted Certificate
+## Certifications
 
 <div>
     <a href="https://www.credly.com/badges/a603c956-52ce-4db7-bdfd/public_url" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/2f73db94-bd85-4391-8885-6c14862457eb/image.png" alt="CASA"/>
+        <img src="https://images.credly.com/size/340x340/images/2f73db94-bd85-4391-8885-6c14862457eb/image.png" alt="CASA" style="width: 100px; height: 100px;"/>
     </a>
     <a href="https://www.credly.com/badges/a603c956-52ce-4db7-bdfd-4d017ef35f62/public_url" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Network Basics"/>
+        <img src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Network Basics" style="width: 100px; height: 100px;"/>
     </a>
     <a href="https://www.credly.com/badges/[insert-link-for-A+]/public_url" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="CompTIA A+"/>
+        <img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="CompTIA A+" style="width: 100px; height: 100px;"/>
     </a>
     <a href="https://www.credly.com/badges/[insert-link-for-CDSA]/public_url" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/40d181b7-80c6-415d-b8e1-b48bbce7be56/image.png" alt="CDSA"/>
+        <img src="https://images.credly.com/size/340x340/images/40d181b7-80c6-415d-b8e1-b48bbce7be56/image.png" alt="CDSA" style="width: 100px; height: 100px;"/>
     </a>
     <a href="https://www.credly.com/badges/[insert-link-for-CCD]/public_url" target="_blank">
-        <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="CCD"/>
+        <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="CCD" style="width: 100px; height: 100px;"/>
     </a>
 </div>
+
 
 #Certifications
 
