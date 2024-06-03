@@ -1,5 +1,3 @@
-Sure, I'd be happy to help enhance your GitHub portfolio to make it more appealing and professional. Here's a revised version:
-
 # Hello, I'm KiezKiel
 
 <a href="https://www.linkedin.com/in/denver-mamuric-08362a291"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -28,9 +26,6 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 | Caesar Cipher Encryption/Decryption           | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Vulnerability Scanning with Nmap              | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Bloodhound Path Mapping                       | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-
-
-
 
 
 ## Tools
@@ -146,6 +141,9 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
     </a>
     <a href="https://www.credly.com/badges/[insert-link-for-CCD]/public_url" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="CCD" style="width: 100px; height: 100px;"/>
+    </a>
+     <a href="https://www.skillfront.com/Badges/88231525988073" target="_blank">
+        <img src="https://media.licdn.com/dms/image/C4D0BAQFAYA4YGB-LEA/company-logo_100_100/0/1630482778504/skillfront_logo?e=1725494400&v=beta&t=dfDjNoKrKgq5MqgsEHKktr7n8Dn06P2fsn_WrY0kzHQ" alt="CCD" style="width: 100px; height: 100px;"/>
     </a>
 </div>
 
