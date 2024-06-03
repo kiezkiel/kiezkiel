@@ -6,8 +6,8 @@ Sure, I'd be happy to help enhance your GitHub portfolio to make it more appeali
 I am a cybersecurity specialist with a primary focus on network penetration testing. While my expertise leans more towards offensive strategies, I also possess substantial knowledge in defensive tactics.
 
 ## Objective
+As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensive skills through practical exercises on platforms like TryHackMe and my home lab. My objective is to leverage this passion and expertise in a dynamic offensive team as a Network Penetration Tester. In this role, I aim to utilize my technical proficiency in threat detection, network monitoring, vuln exploitation, vuln detection to contribute significantly to the protection of digital assets.
 
-To leverage my skills and passion for cybersecurity by contributing to a dynamic SOC team as a Tier 1 Analyst, where I can utilize my technical expertise in threat detection, network monitoring, and incident response to help safeguard digital assets.
 
 ## Skills
 
@@ -69,9 +69,9 @@ To leverage my skills and passion for cybersecurity by contributing to a dynamic
 
 | Certificates                                  | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| LLM AI Model                                  | <a href="https://github.com/yourusername/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring with Wireshark     | <a href="https://github.com/yourusername/Detection-Lab">Detection Lab</a>|
-| Reverse Shell with C                          | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Fortinet Certified Fundamentals Cybersecurity |<a href="https://www.credly.com/badges/1f07f126-42ca-44b9-92ed-f70945c4fb10/public_url">Detection Lab</a>|
+| Introduction to the Threat Landscape 2.0      | <a href="https://www.credly.com/badges/4e19985d-01b0-4412-9cd6-ee532de7dcf9/public_url">Detection Lab</a>|
+| Getting Started in Cybersecurity 2.0          | <a href="https://www.credly.com/badges/1ee3f5bb-95a0-4e89-9092-e190cd3a8cc7/public_url">SOC Automation Lab</a>|
 | CNN AI Model                                  | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Reinforcement Learning with ROM Streetfighter | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Keylogger with Python                         | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
