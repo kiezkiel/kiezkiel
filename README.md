@@ -32,7 +32,7 @@ To leverage my skills and passion for cybersecurity by contributing to a dynamic
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Certificates                                  | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | LLM AI Model                                  | <a href="https://github.com/yourusername/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring with Wireshark     | <a href="https://github.com/yourusername/Detection-Lab">Detection Lab</a>|
