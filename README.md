@@ -130,16 +130,16 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
     <a href=https://www.credly.com/badges/78a4fc9b-2a2d-4b5b-b108-a2f183af2beb/public_url" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/2f73db94-bd85-4391-8885-6c14862457eb/image.png" alt="CASA" style="width: 100px; height: 100px;"/>
     </a>
-    <a href="https://www.credly.com/badges/a603c956-52ce-4db7-bdfd-4d017ef35f62/public_url" target="_blank">
-        <img src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Network Basics" style="width: 100px; height: 100px;"/>
+    <a href="https://www.credly.com/badges/1f07f126-42ca-44b9-92ed-f70945c4fb10/public_url" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="Network Basics" style="width: 100px; height: 100px;"/>
     </a>
-    <a href="https://www.credly.com/badges/[insert-link-for-A+]/public_url" target="_blank">
+    <a href="https://www.credly.com/badges/6edd5721-2074-4006-8e33-67c9baa2d147/public_url" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="CompTIA A+" style="width: 100px; height: 100px;"/>
     </a>
-    <a href="https://www.credly.com/badges/[insert-link-for-CDSA]/public_url" target="_blank">
+    <a href="https://www.credly.com/badges/849d4465-082d-421c-b6ba-0fdcf8f6b399/public_url" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/40d181b7-80c6-415d-b8e1-b48bbce7be56/image.png" alt="CDSA" style="width: 100px; height: 100px;"/>
     </a>
-    <a href="https://www.credly.com/badges/[insert-link-for-CCD]/public_url" target="_blank">
+    <a href="https://www.credly.com/badges/a603c956-52ce-4db7-bdfd-4d017ef35f62/public_url" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="CCD" style="width: 100px; height: 100px;"/>
     </a>
      <a href="https://www.skillfront.com/Badges/88231525988073" target="_blank">
