@@ -3,6 +3,7 @@ Sure, I'd be happy to help enhance your GitHub portfolio to make it more appeali
 # Hello, I'm KiezKiel
 
 <a href="https://www.linkedin.com/in/denver-mamuric-08362a291"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Who Am I
 I am a cybersecurity specialist with a primary focus on network penetration testing. While my expertise leans more towards offensive strategies, I also possess substantial knowledge in defensive tactics.
 
 ## Objective
