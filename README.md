@@ -15,12 +15,20 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| LLM Ai model                                  | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring With Wireshark     | <a href="https://google.com">Detection Lab</a>|
+|Reverse shell with c                           | SOC Automation Lab|
+| CNN AI model                                  | SOC Automation Lab|
+| ReinforcementLearning with ROM streetfighter  | SOC Automation Lab|
+| Keylogger with python                         | SOC Automation Lab|
+| Custom Alexa build with Python                | SOC Automation Lab|
+| Network scanning with python                  | SOC Automation Lab|
+| Xss Beef Web exploitation (Demo)              | SOC Automation Lab|
+| Havoc C2                                      | SOC Automation Lab|
+| Active Directory Different Attacks            | SOC Automation Lab|
+| Caesar Cipher  Encryption/Decryption          | SOC Automation Lab|
+| Vulnerability Scanning And vulnerability exploitation With Nmap    | SOC Automation Lab|
+|   | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
