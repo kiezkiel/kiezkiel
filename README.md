@@ -54,7 +54,7 @@ To leverage my skills and passion for cybersecurity by contributing to a dynamic
 ## Certifications
 
 <div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="[https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white](https://www.credly.com/badges/a603c956-52ce-4db7-bdfd-4d017ef35f62/public_url)" />
     <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
     <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
