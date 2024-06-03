@@ -58,7 +58,7 @@ To leverage my skills and passion for cybersecurity by contributing to a dynamic
     <a href="https://www.credly.com/badges/a603c956-52ce-4db7-bdfd/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+"/>
     </a>
-    <a href="https://www.credly.com/badges/https://www.credly.com/badges/a603c956-52ce-4db7-bdfd-4d017ef35f62/public_url/public_url" target="_blank">
+    <a href="https://www.credly.com/badges/a603c956-52ce-4db7-bdfd-4d017ef35f62/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+"/>
     </a>
     <a href="https://www.credly.com/badges/[insert-link-for-A+]/public_url" target="_blank">
