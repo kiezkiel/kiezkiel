@@ -35,17 +35,30 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 
 ## Tools
 
-### Network
+### Network Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bloodhound-FF0000?&style=for-the-badge&logo=Bloodhound&logoColor=white"  />
+<img src="https://img.shields.io/badge/-OpenVAS-6DB33F?style=for-the-badge&logo=OpenVAS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=Nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-BurpSuite-563D7C?style=for-the-badge&logo=BurpSuite&logoColor=white" />
+
+</div>
+
+### Enumaration 
+<div>
+<img src="https://img.shields.io/badge/-Sherlock-FFA500?style=for-the-badge&logo=Sherlock&logoColor=white" />
+<img src="https://img.shields.io/badge/-GoBuster-FF6347?style=for-the-badge&logo=GoBuster&logoColor=white" />
+
 </div>
 
 ### Post exploitation
 <div>
-    <img src="https://img.shields.io/badge/-Metasploit-000000?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Havoc C2-#5b5b5b?&style=for-the-badge&logo=Suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/-JohnTheRipper-FFD700?style=for-the-badge&logo=JohnTheRipper&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hydra-ADD8E6?style=for-the-badge&logo=Hydra&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hashcat-FF4500?style=for-the-badge&logo=Hashcat&logoColor=white" />
+<img src="https://img.shields.io/badge/-BeEF XSS-FF0000?style=for-the-badge&logo=BeEF XSS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Havoc C2-5b5b5b?style=for-the-badge&logo=Havoc C2&logoColor=white" />
+
 </div>
 
 
