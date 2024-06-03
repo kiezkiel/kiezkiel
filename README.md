@@ -127,7 +127,7 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 ## Highlighted Certificate
 
 <div>
-    <a href="https://www.credly.com/badges/a603c956-52ce-4db7-bdfd/public_url" target="_blank">
+    <a href=https://www.credly.com/badges/78a4fc9b-2a2d-4b5b-b108-a2f183af2beb/public_url" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/2f73db94-bd85-4391-8885-6c14862457eb/image.png" alt="CASA" style="width: 100px; height: 100px;"/>
     </a>
     <a href="https://www.credly.com/badges/a603c956-52ce-4db7-bdfd-4d017ef35f62/public_url" target="_blank">
