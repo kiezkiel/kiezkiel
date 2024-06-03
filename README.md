@@ -39,14 +39,13 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bloodhound-FF0000?&style=for-the-badge&logo=Bloodhound&logoColor=white"  />
 </div>
 
 ### Post exploitation
 <div>
     <img src="https://img.shields.io/badge/-Metasploit-000000?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Havoc C2-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bloodhound-FF0000?&style=for-the-badge&logo=Bloodhound&logoColor=white"  />
+    <img src="https://img.shields.io/badge/-Havoc C2-#5b5b5b?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
 
