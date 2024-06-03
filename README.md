@@ -29,9 +29,10 @@ To leverage my skills and passion for cybersecurity by contributing to a dynamic
 | Vulnerability Scanning with Nmap              | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Bloodhound Path Mapping                       | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
 
-#Certifications
 
-| Certificates                                     adw
+## Skills
+
+| Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | LLM AI Model                                  | <a href="https://github.com/yourusername/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring with Wireshark     | <a href="https://github.com/yourusername/Detection-Lab">Detection Lab</a>|
