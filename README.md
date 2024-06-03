@@ -168,7 +168,7 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 
 ## Projects
 
-| Certificates                                  | Associated Project         |
+| Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Fortinet Certified Fundamentals Cybersecurity |<a href="https://www.credly.com/badges/1f07f126-42ca-44b9-92ed-f70945c4fb10/public_url">Credly</a>|
 | Introduction to the Threat Landscape 2.0      | <a href="https://www.credly.com/badges/4e19985d-01b0-4412-9cd6-ee532de7dcf9/public_url">Credly</a>|
