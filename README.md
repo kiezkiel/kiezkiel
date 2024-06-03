@@ -1,4 +1,4 @@
-# Hello, I'm KiezKiel
+# Welcome to my Portfolio
 
 <a href="https://www.linkedin.com/in/denver-mamuric-08362a291"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 # Who Am I
