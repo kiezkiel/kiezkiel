@@ -1,5 +1,5 @@
 # Welcome to my Portfolio
-
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhtNTQ1cDRkMTIwemFlZWd1N2lsdDZ6aXVrOWVxcTdvZGxmd21mYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif
 <a href="https://www.linkedin.com/in/denver-mamuric-08362a291"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 # Motto
 Coding: It's not a bug, It's an undocumented feature!
