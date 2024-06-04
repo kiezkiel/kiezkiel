@@ -1,6 +1,9 @@
 # Welcome to my Portfolio
 
 <a href="https://www.linkedin.com/in/denver-mamuric-08362a291"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Motto
+Coding: It's not a bug, It's an undocumented feature!
+Bash is fun Because in bash you can automate everything.
 # Who Am I
 I am a cybersecurity specialist with a primary focus on network penetration testing. While my expertise leans more towards offensive strategies, I also possess substantial knowledge in defensive tactics.
 
@@ -8,9 +11,9 @@ I am a cybersecurity specialist with a primary focus on network penetration test
 As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensive skills through practical exercises on platforms like TryHackMe and my home lab. My objective is to leverage this passion and expertise in a dynamic offensive team as a Network Penetration Tester. In this role, I aim to utilize my technical proficiency in threat detection, network monitoring, vuln exploitation, vuln detection to contribute significantly to the protection of digital assets.
 
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | LLM AI Model                                  | <a href="https://github.com/yourusername/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring with Wireshark     | <a href="https://github.com/yourusername/Detection-Lab">Detection Lab</a>|
@@ -170,23 +173,3 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 | Mastercard - Cybersecurity Job Simulation     | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_LWxh877WyDZg7YfhB_1703232704817_completion_certificate.pdf">Forage</a>|
 | Cybersecurity And InfoSec                     | <a href="https://www.credly.com/badges/718e3f05-3e44-44d2-afb9-6a11c8d78e36/public_url">SkillStorm</a>|
 | Software Engineer                             | <a href="https://www.hackerrank.com/certificates/06cb7ef0fd55">SOC Automation Lab</a>|
-
-## Projects
-
-| Projects                                      | Links                      |
-|-----------------------------------------------|----------------------------|
-| Fortinet Certified Fundamentals Cybersecurity |<a href="https://www.credly.com/badges/1f07f126-42ca-44b9-92ed-f70945c4fb10/public_url">Credly</a>|
-| Introduction to the Threat Landscape 2.0      | <a href="https://www.credly.com/badges/4e19985d-01b0-4412-9cd6-ee532de7dcf9/public_url">Credly</a>|
-| Getting Started in Cybersecurity 2.0          | <a href="https://www.credly.com/badges/1ee3f5bb-95a0-4e89-9092-e190cd3a8cc7/public_url">Credly/a>|
-| CNN AI Model                                  | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Reinforcement Learning with ROM Streetfighter | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Keylogger with Python                         | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Custom Alexa Build with Python                | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Network Scanning with Python                  | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| XSS Beef Web Exploitation (Demo)              | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Havoc C2                                      | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Active Directory Attacks                      | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Caesar Cipher Encryption/Decryption           | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Vulnerability Scanning with Nmap              | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Bloodhound Path Mapping                       | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-
