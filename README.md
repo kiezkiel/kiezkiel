@@ -1,6 +1,5 @@
 # Welcome to my Portfolio
-![giphy](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif)
-
+![cropped-1920-1080-1277079](https://github.com/kiezkiel/kiezkiel/assets/137812732/92d6ba2d-9cb1-4d86-a2b3-13d7f023119a)
 
 <a href="https://www.linkedin.com/in/denver-mamuric-08362a291"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 # Motto
