@@ -149,22 +149,27 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 
 ## Certifications
 
-| Certificates                                  | Associated Project         |
+| Certificates                                  | Links                      |
 |-----------------------------------------------|----------------------------|
 | Fortinet Certified Fundamentals Cybersecurity |<a href="https://www.credly.com/badges/1f07f126-42ca-44b9-92ed-f70945c4fb10/public_url">Credly</a>|
 | Introduction to the Threat Landscape 2.0      | <a href="https://www.credly.com/badges/4e19985d-01b0-4412-9cd6-ee532de7dcf9/public_url">Credly</a>|
 | Getting Started in Cybersecurity 2.0          | <a href="https://www.credly.com/badges/1ee3f5bb-95a0-4e89-9092-e190cd3a8cc7/public_url">Credly </a>|
-| CNN AI Model                                  | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Reinforcement Learning with ROM Streetfighter | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Keylogger with Python                         | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Custom Alexa Build with Python                | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Network Scanning with Python                  | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| XSS Beef Web Exploitation (Demo)              | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Havoc C2                                      | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Active Directory Attacks                      | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Caesar Cipher Encryption/Decryption           | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Vulnerability Scanning with Nmap              | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Bloodhound Path Mapping                       | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Introduction to Dark web operations           | <a href="https://elearning.securityblue.team/home/certificate/804186399">Security Blue team</a>|
+| Computer Hardware Basics                      | <a href="https://www.credly.com/badges/d6684bcd-0923-4355-8d69-9df2640a80b0/public_url">Cisco</a>|
+| Android Bug Boungty Hunting: Hunt Like a Rat  | <a href="https://eccommonstorage.blob.core.windows.net/codered/certificates/8ab5ee35-7c50-4806-81d6-23f093bd4492.png">EC-Council</a>|
+| Python(Basics                                 | <a href="https://www.hackerrank.com/certificates/e92d72cacc49">Hacker Rank</a>|
+| SQL(Advance)                                  | <a href="https://www.hackerrank.com/certificates/48379825a57b">Hacker Rank</a>|
+| SQL(Basics)                                   | <a href="https://www.hackerrank.com/certificates/dda0701f32f9">Hacker Rank</a>|
+| Vulnerability Management Detection & Response | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
+| AIG- Shields Up Cybersecurity Job Simulation  | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_LWxh877WyDZg7YfhB_1703254582941_completion_certificate.pdf">Forage</a>|
+| Chronicle Certified SOAR Developer(CCSD)      | <a href="https://learn.chronicle.security/certificates/7hjo41bvhf">Chronicle</a>|
+| Cybersecurity Essential LFC108                | <a href="https://www.credly.com/badges/177ea6ea-2426-40a0-8927-9fb366b6aa04/public_url">The Linux Foundation</a>|
+| Ethical Hacking Essentials(EHE)               | <a href="https://codered.eccouncil.org/certificate/fc1d2e2d-95e4-48b6-b8ed-b503885ddedf?logged=true">EC-Council</a>|
+| Foundational Level Threat Intelligence Analyst| <a href="https://arcx.io/verify-certificate?id=9f687e5551634dbf9f7d5e12a08a846ac687500c&k=8e1cae319e10455db2aab96fc060cb51">arcX</a>|
+| Introduction to Critical Infractracture Protection| <a href="https://learn.opswatacademy.com/certificate/hc40bYc2cA">OPSWAT</a>|
+| Mastercard - Cybersecurity Job Simulation     | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_LWxh877WyDZg7YfhB_1703232704817_completion_certificate.pdf">Forage</a>|
+| Cybersecurity And InfoSec                     | <a href="https://www.credly.com/badges/718e3f05-3e44-44d2-afb9-6a11c8d78e36/public_url">SkillStorm</a>|
+| Software Engineer                             | <a href="https://www.hackerrank.com/certificates/06cb7ef0fd55">SOC Automation Lab</a>|
 
 ## Projects
 
