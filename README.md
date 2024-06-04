@@ -1,5 +1,8 @@
 # Welcome to my Portfolio
-![cropped-1920-1080-1277079](https://github.com/kiezkiel/kiezkiel/assets/137812732/92d6ba2d-9cb1-4d86-a2b3-13d7f023119a)
+
+
+https://github.com/kiezkiel/kiezkiel/assets/137812732/2b43be82-7625-4382-a21f-23a668d10161
+
 
 <a href="https://www.linkedin.com/in/denver-mamuric-08362a291"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 # Motto
