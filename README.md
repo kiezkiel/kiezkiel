@@ -153,7 +153,7 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 |-----------------------------------------------|----------------------------|
 | Fortinet Certified Fundamentals Cybersecurity |<a href="https://www.credly.com/badges/1f07f126-42ca-44b9-92ed-f70945c4fb10/public_url">Credly</a>|
 | Introduction to the Threat Landscape 2.0      | <a href="https://www.credly.com/badges/4e19985d-01b0-4412-9cd6-ee532de7dcf9/public_url">Credly</a>|
-| Getting Started in Cybersecurity 2.0          | <a href="https://www.credly.com/badges/1ee3f5bb-95a0-4e89-9092-e190cd3a8cc7/public_url">Credly/a>|
+| Getting Started in Cybersecurity 2.0          | <a href="https://www.credly.com/badges/1ee3f5bb-95a0-4e89-9092-e190cd3a8cc7/public_url">Credly </a>|
 | CNN AI Model                                  | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Reinforcement Learning with ROM Streetfighter | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Keylogger with Python                         | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
