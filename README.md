@@ -11,23 +11,23 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 
 
 ## Projects
-
+## Still in Process
 | Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| LLM AI Model                                  | <a href="https://github.com/yourusername/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring with Wireshark     | <a href="https://github.com/yourusername/Detection-Lab">Detection Lab</a>|
-| Reverse Shell with C                          | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| CNN AI Model                                  | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Reinforcement Learning with ROM Streetfighter | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Keylogger with Python                         | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Custom Alexa Build with Python                | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Network Scanning with Python                  | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| XSS Beef Web Exploitation (Demo)              | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Havoc C2                                      | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Active Directory Attacks                      | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Caesar Cipher Encryption/Decryption           | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Vulnerability Scanning with Nmap              | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Bloodhound Path Mapping                       | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
+| LLM AI Model                                  | <a href="https://github.com/yourusername/Detection-Lab">N/A</a>|
+| Network Traffic Monitoring with Wireshark     | <a href="https://github.com/yourusername/Detection-Lab">N/A</a>|
+| Reverse Shell with C                          | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| CNN AI Model                                  | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| Reinforcement Learning with ROM Streetfighter | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| Keylogger with Python                         | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| Custom Alexa Build with Python                | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| Network Scanning with Python                  | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| XSS Beef Web Exploitation (Demo)              | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| Havoc C2                                      | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| Active Directory Attacks                      | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| Caesar Cipher Encryption/Decryption           | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| Vulnerability Scanning with Nmap              | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| Bloodhound Path Mapping                       | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
 
 
 ## Tools
