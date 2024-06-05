@@ -171,4 +171,4 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 | Introduction to Critical Infractracture Protection| <a href="https://learn.opswatacademy.com/certificate/hc40bYc2cA">OPSWAT</a>|
 | Mastercard - Cybersecurity Job Simulation     | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_LWxh877WyDZg7YfhB_1703232704817_completion_certificate.pdf">Forage</a>|
 | Cybersecurity And InfoSec                     | <a href="https://www.credly.com/badges/718e3f05-3e44-44d2-afb9-6a11c8d78e36/public_url">SkillStorm</a>|
-| Software Engineer                             | <a href="https://www.hackerrank.com/certificates/06cb7ef0fd55">SOC Automation Lab</a>|
+| Software Engineer                             | <a href="https://www.hackerrank.com/certificates/06cb7ef0fd55">Hacker Rank</a>|
