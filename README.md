@@ -7,24 +7,24 @@
 I am a cybersecurity specialist with a primary focus on network penetration testing. While my expertise leans more towards offensive strategies, I also possess substantial knowledge in defensive tactics.
 
 ## Objective
-As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensive skills through practical exercises on platforms like TryHackMe and my home lab. My objective is to leverage this passion and expertise in a dynamic offensive team as a Network Penetration Tester. In this role, I aim to utilize my technical proficiency in threat detection, network monitoring, vuln exploitation, vuln detection to contribute significantly to the protection of digital assets.
+As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensivee skills through practical exercises on platforms like TryHackMe and my home lab. My objective is to leverage this passion and expertise in a dynamic offensive team as a Network Penetration Tester. In this role, I aim to utilize my technical proficiency in threat detection, network monitoring, vuln exploitation, vuln detection to contribute significantly to the protection of digital assets.
 
 
 ## Projects
 ## Still in Process
 | Projects                                      | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| LLM AI Model                                  | <a href="https://github.com/yourusername/Detection-Lab">N/A</a>|
+| LLM AI Model                                  | <a href="https://github.com/kiezkiel/Projects">Check</a>|
 | Network Traffic Monitoring with Wireshark     | <a href="https://github.com/yourusername/Detection-Lab">N/A</a>|
-| Reverse Shell with C                          | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
-| CNN AI Model                                  | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
-| Reinforcement Learning with ROM Streetfighter | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
-| Keylogger with Python                         | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
-| Custom Alexa Build with Python                | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| Reverse Shell with C                          | <a href="https://github.com/kiezkiel/Projects">Check</a>|
+| CNN AI Model                                  | <a href="https://github.com/kiezkiel/Projects">Check</a>|
+| Reinforcement Learning with ROM Streetfighter | <a href="https://github.com/kiezkiel/Projects">Check</a>|
+| Keylogger with Python                         | <a href="https://github.com/kiezkiel/Projects">Check</a>|
+| Custom Alexa Build with Python                | <a href="https://github.com/kiezkiel/Projects">Check</a>|
 | Network Scanning with Python                  | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
 | XSS Beef Web Exploitation (Demo)              | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
 | Havoc C2                                      | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
-| Active Directory Attacks                      | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
+| Active Directory Attacks                      | <a href="https://github.com/kiezkiel/Projects">Check</a>|
 | Caesar Cipher Encryption/Decryption           | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
 | Vulnerability Scanning with Nmap              | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
 | Bloodhound Path Mapping                       | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
