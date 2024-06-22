@@ -162,7 +162,7 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 | Python(Basics                                 | <a href="https://www.hackerrank.com/certificates/e92d72cacc49">Hacker Rank</a>|
 | SQL(Advance)                                  | <a href="https://www.hackerrank.com/certificates/48379825a57b">Hacker Rank</a>|
 | SQL(Basics)                                   | <a href="https://www.hackerrank.com/certificates/dda0701f32f9">Hacker Rank</a>|
-| Vulnerability Management Detection & Response | <a href="https://github.com/yourusername/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Vulnerability Management Detection & Response | <a href="https://eu.docs.wps.com/l/sIBCp7ZXwAZLD9awG?v=v2">Qualys</a>|
 | AIG- Shields Up Cybersecurity Job Simulation  | <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/2ZFnEGEDKTQMtEv9C_AIG_LWxh877WyDZg7YfhB_1703254582941_completion_certificate.pdf">Forage</a>|
 | Chronicle Certified SOAR Developer(CCSD)      | <a href="https://learn.chronicle.security/certificates/7hjo41bvhf">Chronicle</a>|
 | Cybersecurity Essential LFC108                | <a href="https://www.credly.com/badges/177ea6ea-2426-40a0-8927-9fb366b6aa04/public_url">The Linux Foundation</a>|
