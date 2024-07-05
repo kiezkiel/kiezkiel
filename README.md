@@ -28,7 +28,7 @@ As a cybersecurity enthusiast, I dedicate my daily efforts to honing my offensiv
 | Caesar Cipher Encryption/Decryption           | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
 | Vulnerability Scanning with Nmap              | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
 | Bloodhound Path Mapping                       | <a href="https://github.com/yourusername/SOC-Automation-Lab">N/A</a>|
-| Bloodhound Path Mapping                       | <a href="https://github.com/yourusername/SOC-Automation-Lab">Upcoming</a>|
+| SIEM & WAZUH && TheHive,Cortex,MISP                    | <a href="https://github.com/yourusername/SOC-Automation-Lab">Upcoming</a>|
 
 
 ## Tools
