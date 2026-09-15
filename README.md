@@ -9,10 +9,10 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/kiezkiel"><img src="https://img.shields.io/badge/Status-Active%20Research-00ff9d?style=for-the-badge&logo=target&logoColor=black" alt="Status" /></a>
+    <a href="https://tryhackme.com/p/Laplace"><img src="https://img.shields.io/badge/TryHackMe-Laplace-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
     <a href="https://ctftime.org/team/430828"><img src="https://img.shields.io/badge/CTFtime-Team-E63946?style=for-the-badge&logo=flag&logoColor=white" alt="CTFtime" /></a>
     <a href="https://c0d3diablo.hashnode.dev/"><img src="https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog" /></a>
-    <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-Labs-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+    <a href="https://github.com/kiezkiel"><img src="https://img.shields.io/badge/Status-Active%20Research-00ff9d?style=for-the-badge&logo=target&logoColor=black" alt="Status" /></a>
     <a href="https://github.com/kiezkiel?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Public%20Labs-00c8ff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   </p>
 
@@ -25,8 +25,9 @@
 ```yaml
 specialist:
   handle: 4S34S0N / kiezkiel
+  tryhackme: "https://tryhackme.com/p/Laplace"
   focus_areas: [Network Penetration Testing, Active Directory Attacks, Threat Detection, SIEM]
-  research_domains: [CTFtime Team, TryHackMe, Custom Home Lab Infrastructure, Exploit Development]
+  research_domains: [CTFtime Team, Custom Home Lab Infrastructure, Exploit Development]
   publications: "https://c0d3diablo.hashnode.dev/"
   mission: "Bridging offensive exploitation techniques with pragmatic defensive posture hardening."
 ```
@@ -34,16 +35,27 @@ specialist:
 - **Primary Focus:** Network Penetration Testing, Vulnerability Assessment, and Active Directory Infrastructure Auditing.
 - **Home Lab & Research:** Designing multi-vector detection and automation labs (SIEM with Wazuh, TheHive, Cortex, MISP, and C2 environments).
 - **Offensive Tooling:** Developing custom exploitation tools, payloads, and telemetry evasion prototypes using Python and C.
-- **CTF & Research Publications:** Competing with team on [CTFtime](https://ctftime.org/team/430828) and documenting security research and technical writeups on [Hashnode](https://c0d3diablo.hashnode.dev/).
+- **CTF & Research Publications:** Competing on [TryHackMe (Laplace)](https://tryhackme.com/p/Laplace) and [CTFtime](https://ctftime.org/team/430828), with technical writeups published on [Hashnode](https://c0d3diablo.hashnode.dev/).
 
 ---
 
-### GitHub Activity
+### Activity & Platforms
 
 <div align="center">
-  <a href="https://github.com/kiezkiel">
-    <img src="https://streak-stats.demolab.com?user=kiezkiel&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00C8FF" alt="GitHub Streak Stats" />
-  </a>
+  <table border="0">
+    <tr align="center">
+      <td>
+        <a href="https://tryhackme.com/p/Laplace" target="_blank">
+          <img src="https://tryhackme-badges.s3.amazonaws.com/Laplace.png" alt="TryHackMe Badge" height="150" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kiezkiel">
+          <img src="https://streak-stats.demolab.com?user=kiezkiel&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00C8FF" alt="GitHub Streak Stats" height="150" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
