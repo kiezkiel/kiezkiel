@@ -1,104 +1,175 @@
-# Kiezkiel (4S34S0N)
+<div align="center">
 
-**Cybersecurity Specialist | Network Penetration Tester | Security Researcher**
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Kiezkiel%20%7C%204S34S0N&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20Network%20Penetration%20Tester%20%7C%20Security%20Researcher&descFontSize=17&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-I specialize in offensive security, network penetration testing, and Active Directory security assessments, supported by practical experience in defensive telemetry and threat detection (SIEM). My workflow combines hands-on target enumeration, exploit development in Python/C, and telemetry analysis within dedicated lab environments.
+  <p align="center">
+    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=false&width=620&lines=Offensive+Security+%26+Network+Penetration+Testing;Active+Directory+Exploitation+%26+Privilege+Escalation;SOC+Automation%2C+SIEM+%26+Threat+Detection;Building+Custom+Red-Team+Tools+in+Python+%26+C">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=false&width=620&lines=Offensive+Security+%26+Network+Penetration+Testing;Active+Directory+Exploitation+%26+Privilege+Escalation;SOC+Automation%2C+SIEM+%26+Threat+Detection;Building+Custom+Red-Team+Tools+in+Python+%26+C" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/kiezkiel"><img src="https://img.shields.io/badge/Status-Active%20Research-00ff9d?style=for-the-badge&logo=target&logoColor=black" alt="Status" /></a>
+    <a href="https://github.com/kiezkiel?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Public%20Labs-00c8ff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+    <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-Labs-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  </p>
+
+</div>
 
 ---
 
-### Focus Areas
+### About
 
-- **Offensive Security & Pentesting:** Internal/external network assessments, Active Directory privilege escalation paths, web vulnerability exploitation, and payload development.
-- **Defensive Engineering & Detection:** Lab infrastructure deployment with Wazuh SIEM, TheHive, Cortex, and MISP threat intelligence pipelines.
-- **Custom Tooling & Research:** Exploit weaponization, network auditing utilities, and low-level socket programming in C and Python.
+```yaml
+specialist:
+  handle: 4S34S0N / kiezkiel
+  focus_areas: [Network Penetration Testing, Active Directory Attacks, Threat Detection, SIEM]
+  research_domains: [TryHackMe, Custom Home Lab Infrastructure, Exploit Development]
+  mission: "Bridging offensive exploitation techniques with pragmatic defensive posture hardening."
+```
+
+- **Primary Focus:** Network Penetration Testing, Vulnerability Assessment, and Active Directory Infrastructure Auditing.
+- **Home Lab & Research:** Designing multi-vector detection and automation labs (SIEM with Wazuh, TheHive, Cortex, MISP, and C2 environments).
+- **Offensive Tooling:** Developing custom exploitation tools, payloads, and telemetry evasion prototypes using Python and C.
 
 ---
 
-### Toolset & Technical Proficiencies
+### GitHub Metrics
 
-#### Offensive Security & Exploitation
-![Metasploit](https://img.shields.io/badge/Metasploit-006400?style=flat-square&logo=Metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=BurpSuite&logoColor=white)
-![Havoc C2](https://img.shields.io/badge/Havoc_C2-222222?style=flat-square&logoColor=white)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-333333?style=flat-square&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-EC1C24?style=flat-square&logo=neo4j&logoColor=white)
-![Responder](https://img.shields.io/badge/Responder-DAA520?style=flat-square&logoColor=black)
-![Evil-WinRM](https://img.shields.io/badge/Evil--WinRM-800000?style=flat-square&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-E38C00?style=flat-square&logoColor=white)
-![BeEF](https://img.shields.io/badge/BeEF-CC0000?style=flat-square&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1E90FF?style=flat-square&logoColor=white)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kiezkiel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00C8FF&text_color=E6EDF3" alt="GitHub Stats" height="165" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiezkiel&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00C8FF" alt="GitHub Streak" height="165" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiezkiel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=E6EDF3" alt="Top Languages" />
+</div>
+
+---
+
+### Technical Arsenal
+
+#### Offensive & Exploitation
+<div>
+  <img src="https://img.shields.io/badge/-Metasploit-006400?style=for-the-badge&logo=Metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=for-the-badge&logo=BurpSuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/-Havoc_C2-1a1a1a?style=for-the-badge&logo=target&logoColor=red" alt="Havoc C2" />
+  <img src="https://img.shields.io/badge/-Mimikatz-696969?style=for-the-badge&logo=windows&logoColor=white" alt="Mimikatz" />
+  <img src="https://img.shields.io/badge/-BloodHound-EC1C24?style=for-the-badge&logo=neo4j&logoColor=white" alt="BloodHound" />
+  <img src="https://img.shields.io/badge/-Responder-DAA520?style=for-the-badge&logoColor=black" alt="Responder" />
+  <img src="https://img.shields.io/badge/-Evil_WinRM-800000?style=for-the-badge&logo=powershell&logoColor=white" alt="Evil WinRM" />
+  <img src="https://img.shields.io/badge/-SQLMap-FFA500?style=for-the-badge&logo=mysql&logoColor=black" alt="SQLMap" />
+  <img src="https://img.shields.io/badge/-BeEF_XSS-CC0000?style=for-the-badge&logo=javascript&logoColor=white" alt="BeEF XSS" />
+  <img src="https://img.shields.io/badge/-Aircrack--ng-1E90FF?style=for-the-badge&logoColor=white" alt="Aircrack-ng" />
+  <img src="https://img.shields.io/badge/-Veil-8B0000?style=for-the-badge&logoColor=white" alt="Veil" />
+  <img src="https://img.shields.io/badge/-SET-555555?style=for-the-badge&logoColor=white" alt="SET" />
+</div>
 
 #### Reconnaissance & Network Analysis
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=Nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-B22222?style=flat-square&logo=Shodan&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00CED1?style=flat-square&logo=Tenable&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-6DB33F?style=flat-square&logoColor=white)
-![GoBuster](https://img.shields.io/badge/GoBuster-8A2BE2?style=flat-square&logoColor=white)
-![WPScan](https://img.shields.io/badge/WPScan-0066CC?style=flat-square&logo=WordPress&logoColor=white)
-![ExifTool](https://img.shields.io/badge/ExifTool-555555?style=flat-square&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=Nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/-Shodan-B22222?style=for-the-badge&logo=Shodan&logoColor=white" alt="Shodan" />
+  <img src="https://img.shields.io/badge/-Nessus-00CED1?style=for-the-badge&logo=Tenable&logoColor=white" alt="Nessus" />
+  <img src="https://img.shields.io/badge/-OpenVAS-6DB33F?style=for-the-badge&logoColor=white" alt="OpenVAS" />
+  <img src="https://img.shields.io/badge/-GoBuster-8A2BE2?style=for-the-badge&logoColor=white" alt="GoBuster" />
+  <img src="https://img.shields.io/badge/-Sherlock-FFA500?style=for-the-badge&logoColor=white" alt="Sherlock" />
+  <img src="https://img.shields.io/badge/-WPScan-0066CC?style=for-the-badge&logo=WordPress&logoColor=white" alt="WPScan" />
+  <img src="https://img.shields.io/badge/-ExifTool-FF8C00?style=for-the-badge&logoColor=white" alt="ExifTool" />
+  <img src="https://img.shields.io/badge/-Netcat-111111?style=for-the-badge&logo=gnubash&logoColor=white" alt="Netcat" />
+</div>
 
-#### SIEM, Forensics & Defensive Architecture
-![Wazuh](https://img.shields.io/badge/Wazuh-007ACC?style=flat-square&logoColor=white)
-![TheHive](https://img.shields.io/badge/TheHive-185888?style=flat-square&logoColor=white)
-![Cortex](https://img.shields.io/badge/Cortex-3D6898?style=flat-square&logoColor=white)
-![MISP](https://img.shields.io/badge/MISP-2A52BE?style=flat-square&logoColor=white)
-![Qualys](https://img.shields.io/badge/Qualys_VMDR-005B94?style=flat-square&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-6F42C1?style=flat-square&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_The_Ripper-444444?style=flat-square&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-E03C11?style=flat-square&logoColor=white)
+#### SIEM, Forensics & Defensive Operations
+<div>
+  <img src="https://img.shields.io/badge/-Wazuh_SIEM-007ACC?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/-TheHive-185888?style=for-the-badge&logoColor=white" alt="TheHive" />
+  <img src="https://img.shields.io/badge/-Cortex-3D6898?style=for-the-badge&logoColor=white" alt="Cortex" />
+  <img src="https://img.shields.io/badge/-MISP-2A52BE?style=for-the-badge&logoColor=white" alt="MISP" />
+  <img src="https://img.shields.io/badge/-Qualys_VMDR-005B94?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys" />
+</div>
 
-#### Languages & Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-222222?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+#### Reverse Engineering & Password Cracking
+<div>
+  <img src="https://img.shields.io/badge/-Ghidra-9400D3?style=for-the-badge&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/-John_The_Ripper-DAA520?style=for-the-badge&logoColor=black" alt="JohnTheRipper" />
+  <img src="https://img.shields.io/badge/-Hashcat-FF4500?style=for-the-badge&logoColor=white" alt="Hashcat" />
+  <img src="https://img.shields.io/badge/-Hydra-4682B4?style=for-the-badge&logoColor=white" alt="Hydra" />
+</div>
+
+#### Languages & Systems
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
 ---
 
-### Selected Projects & Security Research
+### Selected Projects & Labs
 
 | Project | Description | Source |
 | :--- | :--- | :---: |
-| **SIEM & SOC Detection Lab** | Deployment and rule engineering across Wazuh SIEM, TheHive case management, Cortex analyzers, and MISP threat feeds. | [Repository](https://github.com/kiezkiel/Projects/tree/main/SIEM) |
-| **Active Directory Security Lab** | Attack path analysis, BloodHound graphing, Kerberoasting, and domain privilege escalation simulations. | [Repository](https://github.com/kiezkiel/Projects) |
-| **C Socket Reverse Shell** | Low-level cross-platform socket implementation in C for payload execution analysis. | [Repository](https://github.com/kiezkiel/Projects) |
+| **SIEM & SOC Detection Lab** | Full deployment of Wazuh SIEM, TheHive case management, Cortex analyzers, and MISP threat intelligence pipelines. | [Repository](https://github.com/kiezkiel/Projects/tree/main/SIEM) |
+| **Active Directory Exploitation Lab** | Kerberoasting, AS-REP roasting, BloodHound path mapping, and lateral movement simulations. | [Repository](https://github.com/kiezkiel/Projects) |
+| **C Socket Reverse Shell** | Low-level socket programming and payload execution analysis in C. | [Repository](https://github.com/kiezkiel/Projects) |
 | **Reinforcement Learning Agent (Street Fighter)** | Custom model environment training on emulated ROM agents. | [Repository](https://github.com/kiezkiel/Projects) |
-| **Deep Learning Research (CNNs & LLMs)** | Neural network implementations and tailored inference scripts for text/image processing. | [Repository](https://github.com/kiezkiel/Projects) |
-| **Python Security & Audit Utilities** | Custom network scrapers, credential auditors, and low-overhead system monitoring scripts. | [Repository](https://github.com/kiezkiel/Projects) |
+| **Deep Learning Research (CNNs & LLMs)** | Neural network implementations and tailored inference pipelines. | [Repository](https://github.com/kiezkiel/Projects) |
+| **Python Security & Audit Utilities** | System audit scripts, socket-based network reconnaissance, and event monitoring suite. | [Repository](https://github.com/kiezkiel/Projects) |
 
 ---
 
 ### Highlighted Credentials
 
-<p align="center">
-  <a href="https://www.credly.com/badges/78a4fc9b-2a2d-4b5b-b108-a2f183af2beb/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/2f73db94-bd85-4391-8885-6c14862457eb/image.png" alt="CASA" width="90" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/849d4465-082d-421c-b6ba-0fdcf8f6b399/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/40d181b7-80c6-415d-b8e1-b48bbce7be56/image.png" alt="CDSA" width="90" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/a603c956-52ce-4db7-bdfd-4d017ef35f62/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="CCD" width="90" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/6edd5721-2074-4006-8e33-67c9baa2d147/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="CompTIA A+" width="90" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/1f07f126-42ca-44b9-92ed-f70945c4fb10/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="Network Basics" width="90" />
-  </a>
-</p>
+<div align="center">
+  <table border="0">
+    <tr align="center">
+      <td width="20%">
+        <a href="https://www.credly.com/badges/78a4fc9b-2a2d-4b5b-b108-a2f183af2beb/public_url" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/2f73db94-bd85-4391-8885-6c14862457eb/image.png" alt="CASA" width="105" /><br/>
+          <b>CASA</b>
+        </a>
+      </td>
+      <td width="20%">
+        <a href="https://www.credly.com/badges/849d4465-082d-421c-b6ba-0fdcf8f6b399/public_url" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/40d181b7-80c6-415d-b8e1-b48bbce7be56/image.png" alt="CDSA" width="105" /><br/>
+          <b>CDSA</b>
+        </a>
+      </td>
+      <td width="20%">
+        <a href="https://www.credly.com/badges/a603c956-52ce-4db7-bdfd-4d017ef35f62/public_url" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="CCD" width="105" /><br/>
+          <b>CCD</b>
+        </a>
+      </td>
+      <td width="20%">
+        <a href="https://www.credly.com/badges/6edd5721-2074-4006-8e33-67c9baa2d147/public_url" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="CompTIA A+" width="105" /><br/>
+          <b>CompTIA A+</b>
+        </a>
+      </td>
+      <td width="20%">
+        <a href="https://www.credly.com/badges/1f07f126-42ca-44b9-92ed-f70945c4fb10/public_url" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="Network Basics" width="105" /><br/>
+          <b>Network Basics</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### Certifications & Verifications
+### Complete Certifications & Verifications
 
 | Certification / Program | Organization | Verification |
 | :--- | :--- | :---: |
