@@ -34,21 +34,12 @@ specialist:
 
 ---
 
-### GitHub Metrics
+### GitHub Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kiezkiel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00C8FF&text_color=E6EDF3" alt="GitHub Stats" height="165" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiezkiel&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00C8FF" alt="GitHub Streak" height="165" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiezkiel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=E6EDF3" alt="Top Languages" />
+  <a href="https://github.com/kiezkiel">
+    <img src="https://streak-stats.demolab.com?user=kiezkiel&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00C8FF" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
 ---
@@ -133,33 +124,21 @@ specialist:
 <div align="center">
   <table border="0">
     <tr align="center">
-      <td width="20%">
-        <a href="https://www.credly.com/badges/78a4fc9b-2a2d-4b5b-b108-a2f183af2beb/public_url" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/2f73db94-bd85-4391-8885-6c14862457eb/image.png" alt="CASA" width="105" /><br/>
-          <b>CASA</b>
-        </a>
-      </td>
-      <td width="20%">
-        <a href="https://www.credly.com/badges/849d4465-082d-421c-b6ba-0fdcf8f6b399/public_url" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/40d181b7-80c6-415d-b8e1-b48bbce7be56/image.png" alt="CDSA" width="105" /><br/>
-          <b>CDSA</b>
-        </a>
-      </td>
-      <td width="20%">
+      <td width="33%">
         <a href="https://www.credly.com/badges/a603c956-52ce-4db7-bdfd-4d017ef35f62/public_url" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="CCD" width="105" /><br/>
+          <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="CCD" width="105" /><br/>
           <b>CCD</b>
         </a>
       </td>
-      <td width="20%">
+      <td width="33%">
         <a href="https://www.credly.com/badges/6edd5721-2074-4006-8e33-67c9baa2d147/public_url" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="CompTIA A+" width="105" /><br/>
+          <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="CompTIA A+" width="105" /><br/>
           <b>CompTIA A+</b>
         </a>
       </td>
-      <td width="20%">
+      <td width="33%">
         <a href="https://www.credly.com/badges/1f07f126-42ca-44b9-92ed-f70945c4fb10/public_url" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="Network Basics" width="105" /><br/>
+          <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="Network Basics" width="105" /><br/>
           <b>Network Basics</b>
         </a>
       </td>
