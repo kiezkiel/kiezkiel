@@ -27,7 +27,7 @@ specialist:
   handle: 4S34S0N / kiezkiel
   tryhackme: "https://tryhackme.com/p/Laplace"
   focus_areas: [Web Application & API Penetration Testing, Active Directory Attacks, Threat Detection, SIEM]
-  research_domains: [CTFtime Team, Custom Home Lab Infrastructure, Exploit Development]
+  current_pursuits: [AWS Cloud Pentesting, AD-RTS (CWL Labs), CNPEN Certification]
   publications: "https://c0d3diablo.hashnode.dev/"
   mission: "Bridging offensive exploitation techniques with pragmatic defensive posture hardening."
 ```
@@ -36,6 +36,14 @@ specialist:
 - **Home Lab & Research:** Designing multi-vector detection and automation labs (SIEM with Wazuh, TheHive, Cortex, MISP, and C2 environments).
 - **Offensive Tooling:** Developing custom exploitation tools, payloads, and telemetry evasion prototypes using Python and C.
 - **CTF & Research Publications:** Competing on [TryHackMe (Laplace)](https://tryhackme.com/p/Laplace) and [CTFtime](https://ctftime.org/team/430828), with technical writeups published on [Hashnode](https://c0d3diablo.hashnode.dev/).
+
+---
+
+### Current Research & Targeted Certifications
+
+- **AWS Cloud Penetration Testing:** Researching AWS IAM privilege escalation paths, cloud asset discovery, S3/Lambda misconfigurations, and serverless attack vectors.
+- **Active Directory Red Teaming (AD-RTS - CWL):** Deep diving into advanced enterprise AD tradecraft—forest trust exploitation, Kerberos delegation attacks, ACL/DACL weaponization, and evasive persistence.
+- **Certified Network Penetration Tester (CNPEN):** Hands-on preparation focused on multi-subnet internal pivoting, perimeter breaching, and full-chain enterprise assessments.
 
 ---
 
