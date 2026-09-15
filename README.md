@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Kiezkiel%20%7C%204S34S0N&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20Web%20%26%20API%20Penetration%20Tester%20%7C%20Security%20Researcher&descFontSize=17&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Kiezkiel%20%7C%204S34S0N&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20Web%20and%20API%20Penetration%20Tester%20%7C%20Security%20Researcher&descFontSize=17&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <p align="center">
-    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=false&width=620&lines=Web+Application+%26+API+Penetration+Testing;Active+Directory+Exploitation+%26+Privilege+Escalation;SOC+Automation%2C+SIEM+%26+Threat+Detection;Building+Custom+Red-Team+Tools+in+Python+%26+C">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=false&width=620&lines=Web+Application+%26+API+Penetration+Testing;Active+Directory+Exploitation+%26+Privilege+Escalation;SOC+Automation%2C+SIEM+%26+Threat+Detection;Building+Custom+Red-Team+Tools+in+Python+%26+C" alt="Typing SVG" />
+    <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=false&width=620&lines=Web+Application+and+API+Penetration+Testing;Active+Directory+Exploitation+and+Privilege+Escalation;SOC+Automation%2C+SIEM+and+Threat+Detection;Custom+Red-Team+Tooling+in+Python+and+C">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&multiline=false&width=620&lines=Web+Application+and+API+Penetration+Testing;Active+Directory+Exploitation+and+Privilege+Escalation;SOC+Automation%2C+SIEM+and+Threat+Detection;Custom+Red-Team+Tooling+in+Python+and+C" alt="Typing SVG" />
     </a>
   </p>
 
