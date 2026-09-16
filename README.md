@@ -150,20 +150,20 @@ specialist:
     <tr align="center">
       <td width="33%">
         <a href="https://www.credly.com/badges/a603c956-52ce-4db7-bdfd-4d017ef35f62/public_url" target="_blank">
-          <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="CCD" width="105" /><br/>
-          <b>CCD</b>
+          <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Cisco Ethical Hacker" width="105" /><br/>
+          <b>Cisco Ethical Hacker</b>
         </a>
       </td>
       <td width="33%">
         <a href="https://www.credly.com/badges/6edd5721-2074-4006-8e33-67c9baa2d147/public_url" target="_blank">
-          <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="CompTIA A+" width="105" /><br/>
-          <b>CompTIA A+</b>
+          <img src="https://images.credly.com/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="Fortinet Certified Associate" width="105" /><br/>
+          <b>Fortinet Certified Associate</b>
         </a>
       </td>
       <td width="33%">
         <a href="https://www.credly.com/badges/1f07f126-42ca-44b9-92ed-f70945c4fb10/public_url" target="_blank">
-          <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="Network Basics" width="105" /><br/>
-          <b>Network Basics</b>
+          <img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="Fortinet Certified Fundamentals" width="105" /><br/>
+          <b>Fortinet Certified Fundamentals</b>
         </a>
       </td>
     </tr>
@@ -176,7 +176,9 @@ specialist:
 
 | Certification / Program | Organization | Verification |
 | :--- | :--- | :---: |
-| Fortinet Certified Fundamentals: Cybersecurity | Fortinet | [Credly](https://www.credly.com/badges/1f07f126-42ca-44b9-92ed-f70945c4fb10/public_url) |
+| **Ethical Hacker** | Cisco Networking Academy | [Credly](https://www.credly.com/badges/a603c956-52ce-4db7-bdfd-4d017ef35f62/public_url) |
+| **Fortinet Certified Associate: Cybersecurity** | Fortinet | [Credly](https://www.credly.com/badges/6edd5721-2074-4006-8e33-67c9baa2d147/public_url) |
+| **Fortinet Certified Fundamentals: Cybersecurity** | Fortinet | [Credly](https://www.credly.com/badges/1f07f126-42ca-44b9-92ed-f70945c4fb10/public_url) |
 | Introduction to the Threat Landscape 2.0 | Fortinet | [Credly](https://www.credly.com/badges/4e19985d-01b0-4412-9cd6-ee532de7dcf9/public_url) |
 | Getting Started in Cybersecurity 2.0 | Fortinet | [Credly](https://www.credly.com/badges/1ee3f5bb-95a0-4e89-9092-e190cd3a8cc7/public_url) |
 | Introduction to Dark Web Operations | Security Blue Team | [Certificate](https://elearning.securityblue.team/home/certificate/804186399) |
